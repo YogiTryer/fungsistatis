@@ -1,0 +1,1 @@
+# Fungsi statis adalah fungsi yang bisa dipanggil dengan atau tanpa membuat class baru untuk memanggilny.
